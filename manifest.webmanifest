@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Математическая разведка",
+  "short_name": "Матразведка",
+  "lang": "ru",
+  "description": "Математическая экспедиция для второго класса",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#193f35",
+  "background_color": "#f7f6ee",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20width%3D%22192%22%20height%3D%22192%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20fill%3D%22%231e5142%22%2F%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%23dfd9a3%22%20stroke-width%3D%222%22%20stroke-dasharray%3D%222%203%22%2F%3E%3Cpath%20d%3D%22m42%2015-4%2022-17%2012%206-22Z%22%20fill%3D%22%23f0c56d%22%2F%3E%3Cpath%20d%3D%22m32%2032%206%205-17%2012Z%22%20fill%3D%22%23fff3d9%22%2F%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%222%22%20fill%3D%22%23234638%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%20width%3D%22512%22%20height%3D%22512%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20fill%3D%22%231e5142%22%2F%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%2220%22%20fill%3D%22none%22%20stroke%3D%22%23dfd9a3%22%20stroke-width%3D%222%22%20stroke-dasharray%3D%222%203%22%2F%3E%3Cpath%20d%3D%22m42%2015-4%2022-17%2012%206-22Z%22%20fill%3D%22%23f0c56d%22%2F%3E%3Cpath%20d%3D%22m32%2032%206%205-17%2012Z%22%20fill%3D%22%23fff3d9%22%2F%3E%3Ccircle%20cx%3D%2232%22%20cy%3D%2232%22%20r%3D%222%22%20fill%3D%22%23234638%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
